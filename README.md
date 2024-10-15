@@ -32,10 +32,10 @@ To convert a video file to DNxHD format, follow these steps:
 
 2. **Make the script executable:**
 ```bash
-   chmod +x video_convertor
+   chmod +x video_converter.sh
 ```
 
 3. **Run the script with the input and output file names:**
 ```bash
-   ./video_convertor <input_video> <output_video>
+   ./video_converter.sh <input_video> <output_video>
 ```
